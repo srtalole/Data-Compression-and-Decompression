@@ -141,12 +141,3 @@ IV. USAGE INSTRUCTIONS
 			$ python Decoder.py input1.lzw 12
 
 	The Decompressed Output file will be created in the current folder. EXAMPLE: input1_decoded.txt
-
-
-V. REFERENCES
-------------------------------
-
-1. Project instructions provided in PDF
-2. https://docs.python.org/3/tutorial/
-3. https://www.youtube.com/watch?v=j2HSd3HCpDs
-4. Example project provided on Canvas
